@@ -1,0 +1,325 @@
+[{
+  "_id": {
+    "$oid": "6559bf6857373813a39a261f"
+  },
+  "nombre": "LeBron James",
+  "posicion": "Alero",
+  "equipo": "Los Angeles Lakers",
+  "estadisticas": {
+    "puntos": 25.6,
+    "rebotes": 8.7,
+    "asistencias": 9.8
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf6857373813a39a2620"
+  },
+  "nombre": "Anthony Davis",
+  "posicion": "Ala-Pívot",
+  "equipo": "Los Angeles Lakers",
+  "estadisticas": {
+    "puntos": 22.5,
+    "rebotes": 10.4,
+    "asistencias": 3.2
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf6857373813a39a2621"
+  },
+  "nombre": "Russell Westbrook",
+  "posicion": "Base",
+  "equipo": "Los Angeles Lakers",
+  "estadisticas": {
+    "puntos": 21.3,
+    "rebotes": 7.2,
+    "asistencias": 10.6
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf6857373813a39a2622"
+  },
+  "nombre": "Dwight Howard",
+  "posicion": "Pívot",
+  "equipo": "Los Angeles Lakers",
+  "estadisticas": {
+    "puntos": 8.1,
+    "rebotes": 9.4,
+    "asistencias": 1.5
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf6857373813a39a2623"
+  },
+  "nombre": "Carmelo Anthony",
+  "posicion": "Ala-Pívot",
+  "equipo": "Los Angeles Lakers",
+  "estadisticas": {
+    "puntos": 15.2,
+    "rebotes": 4.8,
+    "asistencias": 1.9
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf8857373813a39a2625"
+  },
+  "nombre": "Joel Embiid",
+  "posicion": "Pívot",
+  "equipo": "Philadelphia 76ers",
+  "estadisticas": {
+    "puntos": 28.5,
+    "rebotes": 11.1,
+    "asistencias": 4.2
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf8857373813a39a2626"
+  },
+  "nombre": "Ben Simmons",
+  "posicion": "Base",
+  "equipo": "Philadelphia 76ers",
+  "estadisticas": {
+    "puntos": 14.7,
+    "rebotes": 7.3,
+    "asistencias": 9.8
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf8857373813a39a2627"
+  },
+  "nombre": "Tobias Harris",
+  "posicion": "Ala-Pívot",
+  "equipo": "Philadelphia 76ers",
+  "estadisticas": {
+    "puntos": 19.6,
+    "rebotes": 6.2,
+    "asistencias": 3.5
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf8857373813a39a2628"
+  },
+  "nombre": "Seth Curry",
+  "posicion": "Escolta",
+  "equipo": "Philadelphia 76ers",
+  "estadisticas": {
+    "puntos": 16.8,
+    "rebotes": 2.9,
+    "asistencias": 4.1
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bf8857373813a39a2629"
+  },
+  "nombre": "Danny Green",
+  "posicion": "Escolta",
+  "equipo": "Philadelphia 76ers",
+  "estadisticas": {
+    "puntos": 9.3,
+    "rebotes": 3.8,
+    "asistencias": 1.6
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfb357373813a39a262b"
+  },
+  "nombre": "Luka Dončić",
+  "posicion": "Base",
+  "equipo": "Dallas Mavericks",
+  "estadisticas": {
+    "puntos": 27.7,
+    "rebotes": 8.2,
+    "asistencias": 9.8
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfb357373813a39a262c"
+  },
+  "nombre": "Kristaps Porziņģis",
+  "posicion": "Ala-Pívot",
+  "equipo": "Dallas Mavericks",
+  "estadisticas": {
+    "puntos": 20.4,
+    "rebotes": 9.2,
+    "asistencias": 1.7
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfb357373813a39a262d"
+  },
+  "nombre": "Tim Hardaway Jr.",
+  "posicion": "Escolta",
+  "equipo": "Dallas Mavericks",
+  "estadisticas": {
+    "puntos": 16.3,
+    "rebotes": 3.5,
+    "asistencias": 2.1
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfb357373813a39a262e"
+  },
+  "nombre": "Jalen Brunson",
+  "posicion": "Base",
+  "equipo": "Dallas Mavericks",
+  "estadisticas": {
+    "puntos": 12.6,
+    "rebotes": 2.8,
+    "asistencias": 4.7
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfb357373813a39a262f"
+  },
+  "nombre": "Dwight Powell",
+  "posicion": "Pívot",
+  "equipo": "Dallas Mavericks",
+  "estadisticas": {
+    "puntos": 8.9,
+    "rebotes": 6.1,
+    "asistencias": 1.4
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfe657373813a39a2631"
+  },
+  "nombre": "Jayson Tatum",
+  "posicion": "Ala-Pívot",
+  "equipo": "Boston Celtics",
+  "estadisticas": {
+    "puntos": 26.4,
+    "rebotes": 7.3,
+    "asistencias": 4.2
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfe657373813a39a2632"
+  },
+  "nombre": "Jaylen Brown",
+  "posicion": "Escolta",
+  "equipo": "Boston Celtics",
+  "estadisticas": {
+    "puntos": 22,
+    "rebotes": 6.5,
+    "asistencias": 3.1
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfe657373813a39a2633"
+  },
+  "nombre": "Marcus Smart",
+  "posicion": "Base",
+  "equipo": "Boston Celtics",
+  "estadisticas": {
+    "puntos": 13.2,
+    "rebotes": 3.7,
+    "asistencias": 5.8
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfe657373813a39a2634"
+  },
+  "nombre": "Al Horford",
+  "posicion": "Pívot",
+  "equipo": "Boston Celtics",
+  "estadisticas": {
+    "puntos": 9.8,
+    "rebotes": 6.7,
+    "asistencias": 3.4
+  }
+},
+{
+  "_id": {
+    "$oid": "6559bfe657373813a39a2635"
+  },
+  "nombre": "Robert Williams III",
+  "posicion": "Pívot",
+  "equipo": "Boston Celtics",
+  "estadisticas": {
+    "puntos": 8.4,
+    "rebotes": 7.2,
+    "asistencias": 1.9
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c20857373813a39a264c"
+  },
+  "nombre": "Giannis Antetokounmpo",
+  "posicion": "Ala-Pívot",
+  "equipo": "Denver Nuggets",
+  "estadisticas": {
+    "puntos": 29.6,
+    "rebotes": 13.7,
+    "asistencias": 5.8
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c20857373813a39a264d"
+  },
+  "nombre": "Stephen Curry",
+  "posicion": "Base",
+  "equipo": "Denver Nuggets",
+  "estadisticas": {
+    "puntos": 32,
+    "rebotes": 5.5,
+    "asistencias": 6.2
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c20857373813a39a264e"
+  },
+  "nombre": "Lillard Damian",
+  "posicion": "Base",
+  "equipo": "Denver Nuggets",
+  "estadisticas": {
+    "puntos": 28.8,
+    "rebotes": 4.2,
+    "asistencias": 7.5
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c20857373813a39a264f"
+  },
+  "nombre": "Nikola Jokic",
+  "posicion": "Pívot",
+  "equipo": "Denver Nuggets",
+  "estadisticas": {
+    "puntos": 26.4,
+    "rebotes": 11,
+    "asistencias": 8.5
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c20857373813a39a2650"
+  },
+  "nombre": "Kawhi Leonard",
+  "posicion": "Alero",
+  "equipo": "Denver Nuggets",
+  "estadisticas": {
+    "puntos": 27.1,
+    "rebotes": 6.8,
+    "asistencias": 4.3
+  }
+}]

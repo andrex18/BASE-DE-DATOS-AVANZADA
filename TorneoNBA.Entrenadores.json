@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6559c10457373813a39a2638"
+  },
+  "nombre": "Frank Vogel",
+  "equipo": "Los Angeles Lakers",
+  "experiencia": "10 años como entrenador en la NBA",
+  "historial_exitos": [
+    "Campeón de la NBA en 2020",
+    "Entrenador del Año en 2014"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559c10457373813a39a2639"
+  },
+  "nombre": "Doc Rivers",
+  "equipo": "Philadelphia 76ers",
+  "experiencia": "15 años como entrenador en la NBA",
+  "historial_exitos": [
+    "Campeón de la NBA en 2008",
+    "Entrenador del Año en 2000"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559c10457373813a39a263a"
+  },
+  "nombre": "Jason Kidd",
+  "equipo": "Dallas Mavericks",
+  "experiencia": "8 años como entrenador en la NBA",
+  "historial_exitos": [
+    "Campeón de la NBA como jugador",
+    "Medalla de oro olímpica como jugador"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559c10457373813a39a263b"
+  },
+  "nombre": "Ime Udoka",
+  "equipo": "Boston Celtics",
+  "experiencia": "5 años como entrenador en la NBA",
+  "historial_exitos": [
+    "Asistente en los Spurs durante el campeonato de 2014"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559c33f57373813a39a2657"
+  },
+  "nombre": "Michael Malone",
+  "equipo": "Denver Nuggets",
+  "experiencia": "12 años como entrenador en la NBA",
+  "historial_exitos": [
+    "Llevó a los Nuggets a los playoffs en múltiples temporadas"
+  ]
+}]

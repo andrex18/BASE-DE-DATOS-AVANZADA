@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6559ba7e57373813a39a25ff"
+  },
+  "nombre": "Mike Callahan",
+  "experiencia": "20 años como árbitro en la NBA",
+  "certificaciones": [
+    "Árbitro principal de la NBA",
+    "Certificación FIBA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559ba7e57373813a39a2600"
+  },
+  "nombre": "Tony Brothers",
+  "experiencia": "15 años como árbitro en la NBA",
+  "certificaciones": [
+    "Árbitro principal de la NBA",
+    "Certificación FIBA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559ba7e57373813a39a2601"
+  },
+  "nombre": "Courtney Kirkland",
+  "experiencia": "18 años como árbitro en la NBA",
+  "certificaciones": [
+    "Árbitro principal de la NBA",
+    "Certificación FIBA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559ba7e57373813a39a2602"
+  },
+  "nombre": "Marc Davis",
+  "experiencia": "22 años como árbitro en la NBA",
+  "certificaciones": [
+    "Árbitro principal de la NBA",
+    "Certificación FIBA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6559c17e57373813a39a263f"
+  },
+  "nombre": "Ken Mauer",
+  "experiencia": "25 años como árbitro en la NBA",
+  "certificaciones": [
+    "Árbitro principal de la NBA",
+    "Certificación FIBA"
+  ]
+}]

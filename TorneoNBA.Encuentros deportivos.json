@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "6559c5c857373813a39a266a"
+  },
+  "equipo_local": "Boston Celtics",
+  "equipo_visitante": "Dallas Mavericks",
+  "resultado": {
+    "puntos_local": 110,
+    "puntos_visitante": 105
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a266b"
+  },
+  "equipo_local": "Philadelphia 76ers",
+  "equipo_visitante": "Los Angeles Lakers",
+  "resultado": {
+    "puntos_local": 112,
+    "puntos_visitante": 115
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a266c"
+  },
+  "equipo_local": "Denver Nuggets",
+  "equipo_visitante": "Boston Celtics",
+  "resultado": {
+    "puntos_local": 120,
+    "puntos_visitante": 112
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a266d"
+  },
+  "equipo_local": "Dallas Mavericks",
+  "equipo_visitante": "Los Angeles Lakers",
+  "resultado": {
+    "puntos_local": 108,
+    "puntos_visitante": 102
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a266e"
+  },
+  "equipo_local": "Philadelphia 76ers",
+  "equipo_visitante": "Denver Nuggets",
+  "resultado": {
+    "puntos_local": 118,
+    "puntos_visitante": 115
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a266f"
+  },
+  "equipo_local": "Los Angeles Lakers",
+  "equipo_visitante": "Boston Celtics",
+  "resultado": {
+    "puntos_local": 105,
+    "puntos_visitante": 100
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2670"
+  },
+  "equipo_local": "Denver Nuggets",
+  "equipo_visitante": "Dallas Mavericks",
+  "resultado": {
+    "puntos_local": 112,
+    "puntos_visitante": 108
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2671"
+  },
+  "equipo_local": "Los Angeles Lakers",
+  "equipo_visitante": "Philadelphia 76ers",
+  "resultado": {
+    "puntos_local": 115,
+    "puntos_visitante": 110
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2672"
+  },
+  "equipo_local": "Boston Celtics",
+  "equipo_visitante": "Denver Nuggets",
+  "resultado": {
+    "puntos_local": 114,
+    "puntos_visitante": 116
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2673"
+  },
+  "equipo_local": "Dallas Mavericks",
+  "equipo_visitante": "Philadelphia 76ers",
+  "resultado": {
+    "puntos_local": 105,
+    "puntos_visitante": 108
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2674"
+  },
+  "equipo_local": "Philadelphia 76ers",
+  "equipo_visitante": "Boston Celtics",
+  "resultado": {
+    "puntos_local": 110,
+    "puntos_visitante": 112
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2675"
+  },
+  "equipo_local": "Denver Nuggets",
+  "equipo_visitante": "Los Angeles Lakers",
+  "resultado": {
+    "puntos_local": 120,
+    "puntos_visitante": 118
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2676"
+  },
+  "equipo_local": "Dallas Mavericks",
+  "equipo_visitante": "Boston Celtics",
+  "resultado": {
+    "puntos_local": 102,
+    "puntos_visitante": 98
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2677"
+  },
+  "equipo_local": "Los Angeles Lakers",
+  "equipo_visitante": "Philadelphia 76ers",
+  "resultado": {
+    "puntos_local": 112,
+    "puntos_visitante": 114
+  }
+},
+{
+  "_id": {
+    "$oid": "6559c5c857373813a39a2678"
+  },
+  "equipo_local": "Philadelphia 76ers",
+  "equipo_visitante": "Denver Nuggets",
+  "resultado": {
+    "puntos_local": 115,
+    "puntos_visitante": 120
+  }
+}]

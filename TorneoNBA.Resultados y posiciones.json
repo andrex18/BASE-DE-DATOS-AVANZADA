@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6559c6a757373813a39a268e"
+  },
+  "resultados": [
+    {
+      "equipo": "Boston Celtics",
+      "puntos": 538
+    },
+    {
+      "equipo": "Dallas Mavericks",
+      "puntos": 525
+    },
+    {
+      "equipo": "Philadelphia 76ers",
+      "puntos": 535
+    },
+    {
+      "equipo": "Los Angeles Lakers",
+      "puntos": 541
+    },
+    {
+      "equipo": "Denver Nuggets",
+      "puntos": 585
+    }
+  ],
+  "posiciones": {
+    "Boston Celtics": 3,
+    "Dallas Mavericks": 4,
+    "Philadelphia 76ers": 2,
+    "Los Angeles Lakers": 5,
+    "Denver Nuggets": 1
+  }
+}]
