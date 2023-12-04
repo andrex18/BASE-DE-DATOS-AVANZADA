@@ -1,0 +1,20 @@
+torneosReplicaSete = new ReplSetTest({name: "torneosReplica", nodes: 3});print("Realizado")
+torneosReplicaSete.startSet()
+torneosReplicaSete.initiate()
+conn=new Mongo("C0579P10N108:20000")
+testDB=conn.getDB("TorneoDeportivo")
+
+testDB.Deportistas.insert({ 
+        "id": "1",
+        "nombres": "jorge",
+        "apellidos": "torres",
+        "cedula": "7654567",
+        "telefono": "350877654",
+        "edad": "22",
+        "fecha_nacimiento": "23/09/2000",
+        "estatura": "1,70"
+
+});
+
+connSecondary=new Mongo("C0579P10N108:20000")
+torneoReplicaSet.stopSet()
